@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1458052138 source:e:\udinus\semester 2\alpro\pap 2\main.c
+	"fungsidasar2.h"
+
+1457778915 e:\udinus\semester 2\alpro\pap 2\fungsidasar2.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1458099069 source:e:\udinus\semester 2\alpro\pap 2\fungsidasar2.c
+	"fungsidasar2.h"
+
